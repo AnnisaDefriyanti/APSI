@@ -20717,7 +20717,7 @@
 														"$ref": "AAAAAAGXhjhix8Xp16o="
 													},
 													"edgePosition": 1,
-													"text": "2 : Menyimpan Dara Resep Obat"
+													"text": "2 : Menyimpan Data Resep Obat"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -22806,7 +22806,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGXhjNE28THVYI="
 									},
-									"name": "Menyimpan Dara Resep Obat",
+									"name": "Menyimpan Data Resep Obat",
 									"source": {
 										"$ref": "AAAAAAGXhjTH8MWKRnI="
 									},
